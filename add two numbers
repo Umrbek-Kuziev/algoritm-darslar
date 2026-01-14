@@ -1,0 +1,10 @@
+# write an algorithm to add two numbers
+Start 
+create number1, number2, Value_added  
+give them value number1, number2
+Value_added = number1 + number2:
+take out Value_added
+---------------------------------
+def addnum(a, b):
+c = a+b
+return c   or return a+b
